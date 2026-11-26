@@ -2,6 +2,8 @@
 
 A responsive React flashcard deck for revising common programming concepts. Each card displays a term on the front and reveals its definition when selected.
 
+![Flashcards preview](preview.png)
+
 ## Features
 
 - Six built-in programming and React topics
